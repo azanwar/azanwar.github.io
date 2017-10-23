@@ -7,7 +7,7 @@ permalink: /about/index.html
 
 
 Software is eating the world, and AI is eating software.
--------------
+=================
 
  
 **In the coming years, Artificial Intelligence will revolutionize the way we live, and it is my mission to harness the power of technology and AI in the most *[effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)* manner to empower humanity.**
