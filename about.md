@@ -10,7 +10,7 @@ Software is eating the world, and AI is eating software.
 ========
 
  
-**In the coming years, Artificial Intelligence will revolutionize the way [we](https://cltc.berkeley.edu/scenario/scenario-two/) [live](https://cltc.berkeley.edu/scenario/scenario-four/). My aim is to work towards utilizing this power of technology in the most** [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) **manner.**
+**In the coming years, Artificial Intelligence will revolutionize the way [we](https://cltc.berkeley.edu/scenario/scenario-two/) [live](https://cltc.berkeley.edu/scenario/scenario-four/). My aim is to utilize power of technology in the most** [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) **manner.**
 
 **To delve deeper into AI, I am currently taking the 5-course [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) taught by** [Andrew Ng](https://www.facebook.com/andrew.ng.96) **from** [deeplearning.ai](https://www.deeplearning.ai). **You can see my progress [here](https://www.coursera.org/account/accomplishments/records/Z9EZA5YEGY7H). I also plan to take** [this](http://course.fast.ai)**,** [this](http://cs231n.stanford.edu)**, and** [this](http://web.stanford.edu/class/cs224n/) **course by 31st December 2017.**
 
