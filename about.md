@@ -5,16 +5,14 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
+> Software is eating the world, and AI is eating software.
+>-------------
 
-Software is eating the world, and AI is eating software.
+In the coming years, AI is going to revolutionize the way humans live, and it is my mission to harness the power of technology and AI in the most [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) way to empower humanity.
 
-<p>In the coming years, AI is going to revolutionize the way humans live, and it is my mission to harness the power of technology and AI most effectively.</p>
+To delve deeper into AI, I am currently taking the 5-course Deep Learning Specialization on Coursera taught by [Andrew Ng](https://www.facebook.com/andrew.ng.96) from [deeplearning.ai](https://www.deeplearning.ai). You can see my progress [here](https://www.coursera.org/account/accomplishments/records/Z9EZA5YEGY7H). In addition, I plan to take [this](http://course.fast.ai), [this](http://cs231n.stanford.edu), and [this](http://web.stanford.edu/class/cs224n/) course by 31st December 2017.
 
-<p>To delve deeper into AI, I am currently taking the 5-course Deep Learning Specialization on Coursera taught by  http://markitdown.net Professor <li><href="https://www.facebook.com/andrew.ng.96">Andrew Ng</a></li> from <li><a href="https://deeplearning.ai">deeplearning.ai</a></li>. You can see my progress <li><a href="https://www.coursera.org/account/accomplishments/records/Z9EZA5YEGY7H">here</a></li>. I plan to take <li><a href="http://course.fast.ai">this</a></li>, <li><a href="http://cs231n.stanford.edu">this</a></li>, and <li><a href="http://web.stanford.edu/class/cs224n/">this</a></li> course next, with the aim to do these by 31st December 2017.</p>
-
-	
-
-<p>I am a Computer Science student at the University of Southern California. Until recently, I used to study Mathematics and Economics. If you are interested to know my reasons for switching to CS, a post is in the works and will be up soon.</p>
+I study Computer Science at the [University of Southern California](https://www.usc.edu). Until recently, I used to study Mathematics and Economics at [The College of Wooster](https://www.wooster.edu). If you are interested in knowing the reason for this change, a post is in the works and will be up soon.
 
 
 
