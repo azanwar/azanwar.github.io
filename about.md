@@ -10,7 +10,7 @@ Software is eating the world, and AI is eating software.
 
 <p>In the coming years, AI is going to revolutionize the way humans live, and it is my mission to harness the power of technology and AI most effectively.</p>
 
-<p>To delve deeper into AI, I am currently taking the 5-course Deep Learning Specialization on Coursera taught by  [Mark It Down](http://markitdown.net/)Professor <li><a href="https://www.facebook.com/andrew.ng.96">Andrew Ng</a></li> from <li><a href="https://deeplearning.ai">deeplearning.ai</a></li>. You can see my progress <li><a href="https://www.coursera.org/account/accomplishments/records/Z9EZA5YEGY7H">here</a></li>. I plan to take <li><a href="http://course.fast.ai">this</a></li>, <li><a href="http://cs231n.stanford.edu">this</a></li>, and <li><a href="http://web.stanford.edu/class/cs224n/">this</a></li> course next, with the aim to do these by 31st December 2017.</p>
+<p>To delve deeper into AI, I am currently taking the 5-course Deep Learning Specialization on Coursera taught by  [Mark It Down](http://markitdown.net/)Professor <li><href="https://www.facebook.com/andrew.ng.96">Andrew Ng</li> from <li><a href="https://deeplearning.ai">deeplearning.ai</a></li>. You can see my progress <li><a href="https://www.coursera.org/account/accomplishments/records/Z9EZA5YEGY7H">here</a></li>. I plan to take <li><a href="http://course.fast.ai">this</a></li>, <li><a href="http://cs231n.stanford.edu">this</a></li>, and <li><a href="http://web.stanford.edu/class/cs224n/">this</a></li> course next, with the aim to do these by 31st December 2017.</p>
 
 	
 
