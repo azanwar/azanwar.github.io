@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-> Software is eating the world, and AI is eating software.
->-------------
+Software is eating the world, and AI is eating software.
+-------------
 
 In the coming years, AI is going to revolutionize the way humans live, and it is my mission to harness the power of technology and AI in the most [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) way to empower humanity.
 
