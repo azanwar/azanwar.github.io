@@ -3,11 +3,11 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-##Software is eating the world, and AI is eating software.
-
+Software is eating the world, and AI is eating software.
+========
 
  
 **In the coming years, Artificial Intelligence will revolutionize the way** [we](https://cltc.berkeley.edu/scenario/scenario-two/) [live](https://cltc.berkeley.edu/scenario/scenario-four/)**, and it is my mission to harness the power of technology and AI in the most** [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) **manner.**
