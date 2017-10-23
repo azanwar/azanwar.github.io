@@ -53,12 +53,12 @@ github: azanwar
 email: azanwar@usc.edu
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    azanwar:
+        name: Aditya Zanwar
+        bio: Feet to the ground; eyes to the stars
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        # twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -80,7 +80,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
