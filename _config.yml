@@ -17,7 +17,7 @@ resume: true
 resume-external: true
 resume-url: /resume
 
-url: http://azanwar.me/
+url: http://azanwar.me
 # your url: http://USERNAME.github.io
 
 permalink: :title/
