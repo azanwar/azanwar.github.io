@@ -1,4 +1,5 @@
 # main text of home
+title: Aditya Zanwar
 name: Aditya Zanwar
 bio: Feet to the ground; eyes to the stars
 
@@ -15,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: /resume
 
-url: https://azanwar.me
+url: https://azanwar.me/
 # your url: http://USERNAME.github.io
 
-permalink: /Aditya/
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-108486277-1'
