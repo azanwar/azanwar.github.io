@@ -6,13 +6,17 @@
     </p> -->
 
 
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-    
-    <script>
-     WebFont.load({
-        google: {
-          families: ['Source Sans Pro']
-        }
-      });
-    </script>
+	<script type="text/javascript">
+	  WebFontConfig = {
+	    google: { families: [ 'Source+Sans+Pro:100,200,300,400,600,700' ] }
+	  };
+	  (function() {
+	    var wf = document.createElement('script');
+	    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	    wf.type = 'text/javascript';
+	    wf.async = 'true';
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(wf, s);
+	  })(); </script>
+
 </footer>
