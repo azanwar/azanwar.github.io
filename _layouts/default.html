@@ -10,6 +10,8 @@ layout: compress
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <meta name=description content="{{ site.bio }}">
+    <meta name=keywords content="Aditya Zanwar, Adi Zanwar, Aditya, Adi, Zanwar, Jhawar, Jhanwar, Jhawer, azanwar, azanwar, azanwar19, azanwar20, aditya2108, gh-pages, personal website">
+
     <meta name=author content="{{ site.name }}">
 
     {% seo %}
@@ -17,11 +19,9 @@ layout: compress
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-<!--     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&effect=emboss" rel="stylesheet"> -->    
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
     <style>
-    /*@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');*/
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
     {{ scss_sheet | scssify }}
     </style>
