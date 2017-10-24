@@ -12,8 +12,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: aditya_zanwar_resume.pdf
+resume-external: true
+resume-url: /resume
 
 url: https://azanwar.me
 # your url: http://USERNAME.github.io
