@@ -17,7 +17,7 @@ resume: true
 resume-external: true
 resume-url: /resume
 
-url: http://azanwar.me
+url: https://azanwar.me
 # baseurl: /:title # the subpath of your site, e.g. /blog
 # your url: http://USERNAME.github.io
 
@@ -112,4 +112,5 @@ jekyll-mentions:
     base_url: https://github.com
 
 sass:
-  style: compressed
+  sass_dir: _sass
+  style: :compressed
