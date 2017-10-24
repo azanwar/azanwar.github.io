@@ -1,6 +1,6 @@
 # main text of home
 title: Aditya Zanwar
-
+keywords: "Aditya Zanwar, Adi Zanwar, Aditya, Adi, Zanwar, Jhawar, Jhanwar, Jhawer, azanwar, azanwar, azanwar19, azanwar20, aditya2108, gh-pages, personal website"
 name: Aditya Zanwar
 bio: Feet to the ground; eyes to the stars
 
@@ -17,10 +17,11 @@ resume: true
 resume-external: true
 resume-url: /resume
 
-url: http://azanwar.me
+url: azanwar.me
+baseurl: /:title # the subpath of your site, e.g. /blog
 # your url: http://USERNAME.github.io
 
-permalink: :path
+permalink: /:title
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-108486277-1'
