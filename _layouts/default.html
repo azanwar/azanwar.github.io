@@ -41,9 +41,12 @@ layout: compress
 
     <style>
 
-        html.wf-loading {
-            display: none;
-            visibility: hidden;
+    html.wf-loading {
+        display: none;
+        visibility: hidden;
+    }
+    html.wf-active {
+        visibility: visible;
     }
 
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
