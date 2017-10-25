@@ -101,7 +101,7 @@ animation: true
 #   - jekyll-gist
 #   - jekyll-feed
 #   - jemoji
-# highlighter: rogue
+highlighter: rouge
   
 exclude:
   - Gemfile
