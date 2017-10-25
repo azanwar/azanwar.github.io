@@ -21,7 +21,7 @@ url: https://azanwar.me
 # baseurl: /:title # the subpath of your site, e.g. /blog
 # your url: http://USERNAME.github.io
 
-permalink: /:title
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-108486277-1'
