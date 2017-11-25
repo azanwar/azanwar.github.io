@@ -13,9 +13,9 @@ permalink: /about/index.html
 
 **In the coming years, Artificial Intelligence will revolutionize the way** [we](https://cltc.berkeley.edu/scenario/scenario-two/) [live](https://cltc.berkeley.edu/scenario/scenario-four/)**. I aim to utilize power of technology in the most** [effective](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) **manner.**
 
-**To delve deeper into AI, I am currently taking the 5-course** [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)<!--  **taught by** [Andrew Ng](https://www.facebook.com/andrew.ng.96) **of** [deeplearning.ai](https://www.deeplearning.ai) -->**. You can see my progress** [here](https://www.linkedin.com/in/azanwar)**. The plan is to take** [this](http://course.fast.ai)**,** [this](http://cs231n.stanford.edu)**, and** [this](http://web.stanford.edu/class/cs224n/) **course soon after.**
+**To delve deeper into AI, I am currently taking the 5-course** [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  **taught by** [Andrew Ng](https://www.facebook.com/andrew.ng.96) **of** [deeplearning.ai](https://www.deeplearning.ai)**. You can see my progress** [here](https://www.linkedin.com/in/azanwar)**. The plan is to take** [this](http://course.fast.ai)**,** [this](http://cs231n.stanford.edu)**, and** [this](http://web.stanford.edu/class/cs224n/) **course soon after.**
  -->
-**I study** [Computer Science](https://en.wikipedia.org/wiki/Computer_science)<!-- [^cs] --> **student at** [University of Southern California](https://www.usc.edu)**.** <!-- Until recently, I studied** Mathematics and Economics **at** The College of Wooster**. A post highlighting the reasons for this change is in the works and will be up soon.** -->
+<!-- **I study**  -->[Computer Science](https://en.wikipedia.org/wiki/Computer_science)<!-- [^cs] --> **student at** [University of Southern California](https://www.usc.edu)**.** <!-- Until recently, I studied** Mathematics and Economics **at** The College of Wooster**. A post highlighting the reasons for this change is in the works and will be up soon.** -->
 
 
 <!--   [^cs]: [Computer Science](https://en.wikipedia.org/wiki/Computer_science) is the study of automating algorithmic processes that scale.
